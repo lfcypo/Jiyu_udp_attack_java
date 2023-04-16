@@ -27,7 +27,7 @@ zuluJDK1.8
 
 1.  ht0Ruial    ｜大佬提供的python代码与思路   https://github.com/ht0Ruial/Jiyu_udp_attack<br>
 2.  Huang       ｜java代码的实现<br>
-3.  Hu          ｜给我很大的支持，但也带给我不小的麻烦<br>
+3.  Hu          ｜在背后给我很大的支持<br>
 
 
 #### TODO
